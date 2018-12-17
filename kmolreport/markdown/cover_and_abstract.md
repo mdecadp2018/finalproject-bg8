@@ -4,7 +4,7 @@ university_en: National Formosa University
 institute_zh: 機械設計工程系電腦輔助設計實習
 institute_en: Department of Mechanical Design Engineering
 category_zh: 設二乙第八組期末專題報告
-category_en: MDE 2a Group2 final project report
+category_en: MDE 2b Group8 final project report
 title_page: |
     A Report Submitted to Department of Mechanical Design Engineering
 
@@ -18,8 +18,8 @@ title_page: |
 
     Mechanical Design Engineering
 
-title_zh: 中文標題
-title_en: English Title
+title_zh: 機械計時器
+title_en: Mechanical timer
 author_zh: 
 - 高宇辰 40623242
 - 郭祐齊 40623241
@@ -31,7 +31,7 @@ author_zh:
 author_en:
 advisor_zh:
 advisor_en:
-date_zh: 中華民國 xxx 年 x 月
+date_zh: 中華民國 107 年 11 月
 date_en: |
     xxx, xxx
 
