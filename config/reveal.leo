@@ -21,11 +21,29 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
+<v t="leo.20180827201621.9"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
-<v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
+<v t="leo.20180827201621.11"><vh>專題分工</vh>
+<v t="leo.20180827201621.12"><vh>分工內容</vh></v>
+</v>
+<v t="leo.20190106172845.1"><vh>設計動機</vh>
+<v t="leo.20190106172845.2"><vh>動機</vh></v>
+</v>
+<v t="leo.20190106173638.1"><vh>專題目的</vh>
+<v t="leo.20190106173638.2" a="M"><vh>目的</vh></v>
+</v>
+<v t="leo.20190106174903.1"><vh>遇到問題</vh>
+<v t="leo.20190106174903.2" a="M"><vh>QA</vh></v>
+</v>
+<v t="leo.20190106180722.1"><vh>總結</vh>
+<v t="leo.20190106180722.2"><vh>動機</vh></v>
+</v>
+<v t="leo.20190106181630.1"><vh>結束</vh>
+<v t="leo.20190106181630.2"><vh>END</vh></v>
+</v>
+<v t="leo.20190106171339.1"><vh>快捷鍵</vh>
+<v t="leo.20190106171339.2"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
@@ -152,15 +170,19 @@ Created by [bg8](https://github.com/mdecadp2018/finalproject-bg8)
 
 						
 </t>
-<t tx="leo.20180827201621.12"># 投影片快捷鍵
+<t tx="leo.20180827201621.12"># 專案分工
 
-* 利用箭頭上下前後換頁
-* 按 f 鍵進入全螢幕模式 (full screen)
-* 按 s 鍵可以顯示投影片筆記 (show)
-* 按 o 鍵可以切換單張或全域檢視 (overview)
-* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
-* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
+* 高宇辰 | 網站維護與更新、pdf製作 、製作部落格、製作簡報、上台報告 
 
+* 郭祐齊 | 製作Onshape手冊、更新心得 
+
+* 鄭清銓 | 繪製齒輪、更新心得 
+
+* 盧逸誠 | 繪製齒輪、更新心得 
+
+* 陳宥安 | 更新心得 
+
+* 王文澤 | 繪製擒縱器、更新心得 
 </t>
 <t tx="leo.20180827201621.13">&lt;section&gt;
 @others
@@ -333,5 +355,93 @@ make.start()
 
 						
 </t>
+<t tx="leo.20190106171339.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190106171339.2"># 投影片快捷鍵
+
+* 利用箭頭上下前後換頁
+* 按 f 鍵進入全螢幕模式 (full screen)
+* 按 s 鍵可以顯示投影片筆記 (show)
+* 按 o 鍵可以切換單張或全域檢視 (overview)
+* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
+* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
+
+</t>
+<t tx="leo.20190106172845.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190106172845.2"># 動機
+
+原本的八個題目選擇，一開始選擇的是機械手臂，但是太多組別做了所以就在選擇了，看到計時器的時候，想到機械錶的價值和魔力就決定做這個題目，之前沒人做過的機械計時器，難度偏高，但一定要有一點一滴地做才會讓之後的人有點概念和經驗，可做得比我們更好，或許我們做得並沒很優秀，但盡我所能做到最好。</t>
+<t tx="leo.20190106173638.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190106173638.2"># 學習目的
+
+* 熟練的使用 Onshape 繪製零組件利用 V-rep 的模擬，在本次的專題無法用到 V-rep 模擬，但有利用本次機會去了解 V-rep 的使用以及模擬。
+
+* 藉由本次把自己的實力並將這個系統套用在未來的實務應用上以及精進實力。
+</t>
+<t tx="leo.20190106174903.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190106174903.2"># QA
+
+* report資料夾改完名變成子目錄
+
+* PDF插入圖片的時候亂版
+
+* 找資料的速度太慢
+
+* 組員積極度不夠
+
+* 分配工作完成但完成度太低</t>
+<t tx="leo.20190106180722.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190106180722.2"># 總結
+
+我們在這次的專題製作過程中真的遇到了很多問題，找相關資料太慢導致專題做得不好，無法順利模擬到，以及PDF發生少許無法解決的錯誤，一直重複做，在老師及別組同學的的幫助下，終於順利解決我困擾已久的問題，成員討論的機會很少的狀況，以致無法讓專題更好，希望之後大家的積極度可以更高，把不會的都提出來，讓每個人都能夠了解彼此的想法，統整大家的意見，從中分配出各自合適的工作，有效率的完成期末專題。</t>
+<t tx="leo.20190106181630.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190106181630.2"># THE END</t>
 </tnodes>
 </leo_file>
