@@ -124,15 +124,23 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">## 2018Fall 分組網際簡報
+<t tx="leo.20180827201621.10"># BG1分組報告
 
-### 虎科大機械設計工程系
+虎科大機械設計工程系
+
+## Mechanical Arms 機械手臂
+
+Members
+
+40623242 高宇辰 40623241 郭祐齊 40623226 鄭清銓 406232043 盧逸誠 40623229 陳宥安 40223208 王文澤
+
+指導教授：嚴家銘
 
 &lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
+Created by [bg8](https://github.com/mdecadp2018/finalproject-bg8)
 &lt;/small&gt;
 
-[2018 Fall 分組網誌](./../blog/index.html)
+[bg8分組網誌](https://mdecadp2018.github.io/finalproject-bg8/content/index.html)
 
 
 </t>
