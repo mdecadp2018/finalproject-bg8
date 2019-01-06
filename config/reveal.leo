@@ -124,13 +124,12 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10"># BG1分組報告
+<t tx="leo.20180827201621.10">BG8分組報告
 
 虎科大機械設計工程系
 
-## Mechanical Arms 機械手臂
+## Mechanical Timer 機械計時器
 
-Members
 
 40623242 高宇辰 40623241 郭祐齊 40623226 鄭清銓 406232043 盧逸誠 40623229 陳宥安 40223208 王文澤
 
