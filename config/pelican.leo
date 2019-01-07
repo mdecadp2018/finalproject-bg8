@@ -71,28 +71,28 @@
 <v t="leo.20180423103639.1" a="E"><vh>2018 Fall CP 課程</vh>
 <v t="leo.20180423103656.1"><vh>@edit 20180718.md</vh></v>
 </v>
-<v t="leo.20181112110023.1" a="E"><vh>Finalproject week11</vh>
+<v t="leo.20181112110023.1" a="E"><vh>week11</vh>
 <v t="leo.20181112110023.2"><vh>@edit 20181119.md</vh></v>
 </v>
-<v t="leo.20190107000711.1" a="E"><vh>Finalproject week12</vh>
+<v t="leo.20190107000711.1" a="E"><vh>week12</vh>
 <v t="leo.20190107000711.2"><vh>@edit 20181126.md</vh></v>
 </v>
-<v t="leo.20190107000805.1" a="E"><vh>Finalproject week13</vh>
+<v t="leo.20190107000805.1" a="E"><vh>week13</vh>
 <v t="leo.20190107000805.2"><vh>@edit 20181203.md</vh></v>
 </v>
-<v t="leo.20190107000900.1" a="E"><vh>Finalproject week14</vh>
+<v t="leo.20190107000900.1" a="E"><vh>week14</vh>
 <v t="leo.20190107000900.2"><vh>@edit 20181210.md</vh></v>
 </v>
-<v t="leo.20190107000941.1" a="E"><vh>Finalproject week15</vh>
+<v t="leo.20190107000941.1" a="E"><vh>week15</vh>
 <v t="leo.20190107000941.2"><vh>@edit 20181217.md</vh></v>
 </v>
-<v t="leo.20190107001026.1" a="E"><vh>Finalproject week16</vh>
+<v t="leo.20190107001026.1" a="E"><vh>week16</vh>
 <v t="leo.20190107001026.2"><vh>@edit 20181224.md</vh></v>
 </v>
-<v t="leo.20190107001023.1" a="E"><vh>Finalproject week17</vh>
+<v t="leo.20190107001023.1" a="E"><vh>week17</vh>
 <v t="leo.20190107001023.2"><vh>@edit 20181213.md</vh></v>
 </v>
-<v t="leo.20190107001823.1" a="E"><vh>Finalproject week18</vh>
+<v t="leo.20190107001823.1" a="E"><vh>week18</vh>
 <v t="leo.20190107001823.2"><vh>@edit 20180107.md</vh></v>
 </v>
 </v>
