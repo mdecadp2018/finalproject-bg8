@@ -6,7 +6,7 @@ Assembly
 Assembly front
 ---
 
-正面組合圖 (尚未完成)
+正面組合圖
 
 ![正面][]
     
@@ -16,7 +16,7 @@ Assembly front
 Assembly back
 ---
 
-背面組合圖 (尚未完成)
+背面組合圖
 
 ![背面][]
     
